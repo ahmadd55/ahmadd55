@@ -10,7 +10,7 @@
 ---
 
 ### 📊 GitHub Stats:
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadd55&show_icons=true&theme=dark&count_private=true)
+![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadd55&show_icons=true&theme=dark&count_private=true&include_all_commits=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ahmadd55&theme=dark)
 
